@@ -1,2 +1,2 @@
 # FEAIML
-## *Free-Energy Active Inference Meta-Learning *
+## Free-Energy Active Inference Meta-Learning
