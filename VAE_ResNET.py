@@ -1,5 +1,4 @@
-#https://github.com/julianstastny/VAE-ResNet18-PyTorch
-#https://github.com/Masoud-Karami/IFT6135_TP3-3/blob/2fe5d750764ad3c97965b527724975fb0f6a013b/Q3/VAE_q3.py
+"""Author: Zahra Sheikhbahaee- March 2020 """
 import torch
 from torch import nn, optim
 import torch.nn.functional as F
